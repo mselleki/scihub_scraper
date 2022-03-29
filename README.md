@@ -1,4 +1,4 @@
-# SciHubScraper
+# SciHub Scraper
 A Python script which permits to search for articles on PubMed, read abstracts and download if desired. 
 
 Welcome to SciHubScaper
